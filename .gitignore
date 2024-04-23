@@ -1,5 +1,6 @@
 .cpcache/
 .clj-kondo/
+.calva/
 !.clj-kondo/config.edn
 .lsp/
 .rebel_readline_history
